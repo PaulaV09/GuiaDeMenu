@@ -12,3 +12,7 @@ La gastronomía mexicana es el conjunto de platillos y técnicas culinarias de M
 - Tequila. 
 - Mezcal.
 - Aguas frescas. 
+
+## Consejos
+- Elige tortillas de maíz sobre las de harina, opta por salsas frescas como guacamole en lugar de salsas cremosas.
+- Explora las diversas opciones de chiles y hierbas frescas.
