@@ -13,3 +13,6 @@ Un postre es un plato, generalmente dulce, que se sirve al final de una comida p
 - Frappe.
 - Granizada.
 ​
+## Consejos
+- imita el tamaño de las porciones para evitar excesos de calorías y azúcares. 
+- Opta por postres con frutas, ingredientes integrales y menos azúcar refinada. 
