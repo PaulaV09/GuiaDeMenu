@@ -7,3 +7,8 @@ La gastronomía de Japón como cocina nacional ha evolucionado, a través de los
 - **Sushi**: Arroz avinagrado combinado con pescado crudo, mariscos, verduras u otros ingredientes. 
 - **Ramen**: Sopa de fideos con caldo, carne o pescado, y diferentes acompañamientos como huevo, verduras y algas. 
 - **Tempura**: Mariscos o vegetales rebozados y fritos en aceite. 
+
+## Bebidas Recomendadas
+- Sake. 
+- Shochu.
+- Umeshu.
