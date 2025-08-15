@@ -12,3 +12,7 @@ La comida india es conocida por su rica diversidad de sabores y especias, con pl
 - Lassi.
 - Masala chai.
 - Nimbu pani.
+
+## Consejos
+- Evitar la comida callejera, optar por frutas y verduras frescas pelables, y prestar atención al tamaño de las porciones.
+- Beber agua embotellada o filtrada, evitar el hielo en las bebidas y lavarse o desinfectarse las manos antes de comer. 
