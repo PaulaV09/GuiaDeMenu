@@ -7,3 +7,8 @@ La gastronomía francesa, reconocida como Patrimonio Cultural Inmaterial de la H
 - **Coq au Vin**: Estofado de pollo cocinado en vino tinto, generalmente acompañado de cebollas, champiñones, tocino y hierbas aromáticas. 
 - **Boeuf Bourguignon**: Un estofado de carne de res cocinada en vino tinto, con cebollas, champiñones, tocino y otras verduras. 
 - **Pot-au-feu**: Un cocido de carne de res y verduras, cocinado a fuego lento en un caldo. 
+
+## Bebidas Recomendadas
+- Pastis.
+- Kir y Kir Royal.
+- Champagne.
