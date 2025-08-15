@@ -12,3 +12,7 @@ La gastronomía de Japón como cocina nacional ha evolucionado, a través de los
 - Sake. 
 - Shochu.
 - Umeshu.
+
+## Consejos
+- Aprender a usar los palillos correctamente es fundamental.
+- En Japón, es costumbre terminar toda la comida en el plato como muestra de agradecimiento.
