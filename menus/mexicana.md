@@ -7,3 +7,8 @@ La gastronomía mexicana es el conjunto de platillos y técnicas culinarias de M
 - **Tacos**: Tortillas de maíz o harina rellenas de diversos guisos, como carne (al pastor, de res, de cerdo), pollo, pescado, o vegetales, acompañados de salsas y guarniciones. 
 - **Pozoles**: Es un caldo tradicional de origen nahua preparado con granos de maíz blanco nixtamalizados, comúnmente de la variedad cacahuazintle, al que se agregan carnes, verduras, especias y chiles distintos según la región. 
 - **Enchiladas**: Tortillas de maíz bañadas en salsa y rellenas de diversos ingredientes (carne, queso, pollo). 
+
+## Bebidas Recomendadas
+- Tequila. 
+- Mezcal.
+- Aguas frescas. 
