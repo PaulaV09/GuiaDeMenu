@@ -1,2 +1,0 @@
-# Menú Cocina Mediterranea
-
