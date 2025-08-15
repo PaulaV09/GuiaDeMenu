@@ -3,3 +3,7 @@
 ## Descripción
 La gastronomía de Japón como cocina nacional ha evolucionado, a través de los siglos, a causa de muchos cambios políticos, sociales y de recursos, comenzando por la Edad Antigua, en la que la mayoría de la cocina estaba influenciada por la cultura china.
 
+## Platos Principales
+- **Sushi**: Arroz avinagrado combinado con pescado crudo, mariscos, verduras u otros ingredientes. 
+- **Ramen**: Sopa de fideos con caldo, carne o pescado, y diferentes acompañamientos como huevo, verduras y algas. 
+- **Tempura**: Mariscos o vegetales rebozados y fritos en aceite. 
