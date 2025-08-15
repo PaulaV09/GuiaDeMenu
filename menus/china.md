@@ -12,3 +12,7 @@ La comida china es muy variada, con platos famosos como el pato pekín, arroz fr
 - Te.
 - Agua caliente.
 - Jugo de soya.
+
+## Consejos
+- En la comida china, es común que los platos se compartan entre todos los comensales. Usa palillos o cucharas comunitarias para servirte de los platos compartidos, evitando usar tus propios palillos para tomar la comida directamente. 
+- Los palillos son el utensilio principal. Si no estás acostumbrado a usarlos, puedes pedir un tenedor amablemente. 
