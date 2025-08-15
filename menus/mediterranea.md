@@ -12,3 +12,7 @@ La comida mediterránea, también conocida como dieta mediterránea, es un estil
 - Agua.
 - Vino tinto.
 - Zumo de frutas.
+
+## Consejos
+- Se recomienda consumir pescado y mariscos con frecuencia, y moderar el consumo de lácteos y carnes rojas.
+- Es importante mantenerse activo físicamente. 
