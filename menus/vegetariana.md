@@ -12,3 +12,7 @@ La comida vegetariana se refiere a la gastronomía que excluye la carne, tanto d
 - La bebida de almendra.
 - La bebida de avena.
 - La bebida de soja.
+
+## Consejos
+- Enfocarse en la variedad y equilibrio de alimentos vegetales, incluyendo frutas, verduras, granos integrales, legumbres, nueces y semillas. 
+- Aprender a leer etiquetas nutricionales y considerar suplementos si es necesario. 
