@@ -7,3 +7,8 @@ La comida china es muy variada, con platos famosos como el pato pekín, arroz fr
 - **Pato Pekín**: Un plato emblemático conocido por su piel crujiente y carne jugosa. 
 - **Arroz Frito**: Un plato básico que se puede hacer con diferentes ingredientes como verduras, huevo y carne. 
 - **Rollitos Primavera**: Crujientes por fuera y rellenos de verduras o carne. 
+
+## Bebidas Recomendadas
+- Te.
+- Agua caliente.
+- Jugo de soya.
