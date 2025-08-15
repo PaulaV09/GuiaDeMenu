@@ -12,3 +12,7 @@ La gastronomía francesa, reconocida como Patrimonio Cultural Inmaterial de la H
 - Pastis.
 - Kir y Kir Royal.
 - Champagne.
+
+## Consejos
+- Reducir la grasa en las salsas, utilizar hierbas frescas para dar sabor y optar por caldos en lugar de aceites son buenas opciones.
+- Explorar los mercados locales para obtener ingredientes frescos y de temporada es una práctica común en Francia.
