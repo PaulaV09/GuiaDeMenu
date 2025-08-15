@@ -8,6 +8,11 @@ La carne se refiere a la carne comestible de los animales . Está compuesta prin
 - **Cheeseburger a la neoyorquina**: Es un plato que se elabora con facilidad, pero que necesita un poco de atención si lo que deseamos es convertirnos en los reyes y las reinas del american dinner. Puedes comprar nuestras hamburguesas caseras ya elaboradas o pedirnos los cortes que más te gusten para que te los piquemos al momento. La carne de aguja resulta muy buena opción para elaborar hamburguesas jugosas, pero la receta neoyorquina de hamburguesa más popular según el libro Nueva York, las recetas de culto se elabora con una mezcla de carne de lomo de vaca, un cuarto de espalda y un cuarto de pecho.
 - **Conejo a la maltesa (stuffat tal-fenek)**: Buscando una receta de conejo que no fuera al ajillo ni llevara el escabeche patrio, hemos encontrado esta receta típica de Malta (tan típica que es el plato nacional), publicada en el blog gastronómico del chef Koketo, donde además de hablar de ésta y otras especialidad maltesas, también cuenta el porqué este animal es uno de los alimentos tradicionales del país.
 
+## Mejores cortes de carne
+- Ribeye.
+- Solomillo.
+- T-Bone.
+
 ## Consejos
 - Es importante considerar tanto la calidad como la cantidad, además de la forma de preparación y consumo.
 - Respeta las recomendaciones semanales de consumo de carne roja (no más de 455 gramos cocida por semana)
