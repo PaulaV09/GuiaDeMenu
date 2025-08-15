@@ -8,3 +8,7 @@ La comida vegetariana se refiere a la gastronomía que excluye la carne, tanto d
 - **Perritos vegetales** (habitualmente hechos de PVT).
 - **Salchichas de imitación** (de soja, disponibles de varios tipos, como salami, boloñesa, pepperoni, etcétera).
 
+## Bebidas Recomendadas
+- La bebida de almendra.
+- La bebida de avena.
+- La bebida de soja.
