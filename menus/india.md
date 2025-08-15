@@ -7,3 +7,8 @@ La comida india es conocida por su rica diversidad de sabores y especias, con pl
 - **Biryani**: Un plato de arroz cocinado con especias, carne (pollo, cordero, pescado) o verduras, y a menudo con yogur. 
 - **Pollo Tikka Masala**: Trozos de pollo marinados en especias y yogur, asados y luego cocinados en una salsa cremosa de tomate y especias. 
 - **Pollo Tandoori**: Pollo marinado en yogur y especias, asado en un horno tandoor (horno de barro), lo que le da un sabor ahumado y jugoso. 
+
+## Bebidas Recomendadas
+- Lassi.
+- Masala chai.
+- Nimbu pani.
